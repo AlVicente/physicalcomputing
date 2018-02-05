@@ -2,6 +2,12 @@
 
 ##### Build-project consists of a green LED that is constantly on. At the push/hold of a button, the green LED turns off and in its place two red LEDs begin intermittently flashing.   
 
-#### Click here for image, code, and schematic
+#### <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week3%20-%20Jan%2029th/Spaceship%20Interface%20img1.JPG">Spaceship Interface Arduino img1</a>
+
+#### <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week3%20-%20Jan%2029th/Spaceship%20Interface%20img2.JPG">Spaceship Interface Arduino img2</a>
+
+#### <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week3%20-%20Jan%2029th/Spaceship%20Interface%20Circuit%20Layout.png">Spaceship Interface Circuit Layout</a>
+
+#### <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week3%20-%20Jan%2029th/Spaceship%20Interface%20Code.png">Spaceship Interface Code</a>
 
 #### Click here for video on Vimeo  
