@@ -1,6 +1,8 @@
 ### Light Theremin Assignment
 
-#### Build-project consists of varying the pitch produced by a piezo buzzer by moving the hand toward and away from a light sensor (photoresistor).    
+#### Build-project consists of varying the pitch produced by a piezo buzzer by moving the hand toward and away from a light sensor (photoresistor).   
+
+ ##### <a href="https://vimeo.com/256346145">Vimeo project video</a>  
 
 
 ### Digital Hourglass Assignment
