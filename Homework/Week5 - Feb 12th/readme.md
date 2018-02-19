@@ -3,6 +3,7 @@
 #### Build-project consists of varying the pitch produced by a piezo buzzer by moving the hand toward and away from a light sensor (photoresistor).   
 
  ##### <a href="https://vimeo.com/256346145">Vimeo project video</a>  
+ ##### <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week5%20-%20Feb%2012th/Light%20Theremin%20Code">Light Theremin Code</a>
 
 
 ### Digital Hourglass Assignment
