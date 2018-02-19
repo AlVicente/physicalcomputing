@@ -1,3 +1,4 @@
+
 const int sensorPin = A0;   // analog-in pin held constant
 const float baselineTemp = 20.0;    // baseline temperature held constant
 
