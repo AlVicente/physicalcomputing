@@ -5,7 +5,7 @@
 #####  - <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week5%20-%20Feb%2012th/Light%20Theremin.png">Light Theremin Image</a>
  ##### - <a href="https://vimeo.com/256346145">Vimeo project video</a>  
  ##### - <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week5%20-%20Feb%2012th/Light%20Theremin%20Code">Light Theremin Code</a>
-
+##### - <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week5%20-%20Feb%2012th/lightThereminCircuit.png">Light Theremin Circuit</a>
 
 ### Digital Hourglass Assignment
 
