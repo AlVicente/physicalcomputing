@@ -10,7 +10,7 @@
 
 ## Color Mixing Lamp Assignment
 
-#### The build-project
+#### The build-project essentially consists of LEDS changing color gradually on account of the light intensity hitting several photoresistors 
 
 ##### * <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week4%20-%20Feb%205th/Color%20Mixing%20Lamp%20Circuit.png">Color Mixing Lamp Circuit</a>
 ##### * <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week4%20-%20Feb%205th/Color%20Mixing%20Lamp%20Code">Color Mixing Lamp Code</a>
