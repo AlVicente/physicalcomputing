@@ -1,4 +1,4 @@
-### Love-O-Meter Assignment
+## Love-O-Meter Assignment
 
 #### The build-project is essentially a simple thermometer which upon use makes fluctuations visible across a string of LEDs
 
@@ -7,7 +7,7 @@
 ##### * <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week4%20-%20Feb%205th/Love-O-Meter%20Code">Love-O-Meter Code</a>
 
 
-### Color Mixing Lamp Assignment
+## Color Mixing Lamp Assignment
 
 #### The build-project
 
