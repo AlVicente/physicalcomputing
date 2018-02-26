@@ -12,5 +12,5 @@
 
 #### The build-project
 
-##### * <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week4%20-%20Feb%205th/Color%20Mixing%20Lamp%20Code">Color Mixing Lamp Code</a>
 ##### * <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week4%20-%20Feb%205th/Color%20Mixing%20Lamp%20Circuit.png">Color Mixing Lamp Circuit</a>
+##### * <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week4%20-%20Feb%205th/Color%20Mixing%20Lamp%20Code">Color Mixing Lamp Code</a>
