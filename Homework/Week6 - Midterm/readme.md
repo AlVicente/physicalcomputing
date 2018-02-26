@@ -7,4 +7,4 @@
 
 ##### Materials: Arduino Uno, TCS34725 Color Sensor, PiezoBuzzer, Continuous Rotation Servo, Mini-Servo
 
-##### * <a href="Image 1 (Sorter Wheel Sketch) 
+##### * <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week6%20-%20Midterm/Skittle%20or%20Skream%20pg%201.png">Image 1 (Sorter Wheel Sketch)</a>
