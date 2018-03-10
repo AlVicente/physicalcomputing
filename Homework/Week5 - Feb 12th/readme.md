@@ -10,3 +10,5 @@
 ## Digital Hourglass Assignment
 
 #### Build-project consists of six LEDs, lighting one-at-a-time after a given number of minutes have elapsed. A connected tilt switch resets the LEDs to off when the breadboard is physically inclined, starting the process over.
+
+##### - <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week5%20-%20Feb%2012th/Digital%20Hourglass%20Code"> Digital Hourglass Code</a>
