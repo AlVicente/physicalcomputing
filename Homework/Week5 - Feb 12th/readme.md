@@ -11,7 +11,9 @@
 
 #### Build-project consists of six LEDs, lighting one-at-a-time after a given number of minutes have elapsed. A connected tilt switch resets the LEDs to off when the breadboard is physically inclined, starting the process over.
 
-##### - <a href=""
+##### - <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week5%20-%20Feb%2012th/digitalHourglassImg1.png">Digital Hourglass Image 1</a>
+
+##### - <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week5%20-%20Feb%2012th/digitalHourglassImg2.png">Digital Hourglass Image 2</a>
 
 ##### - <a href="https://vimeo.com/259503471">Vimeo project Video</a>
 
