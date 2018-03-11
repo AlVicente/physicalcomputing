@@ -15,7 +15,7 @@
 
 ##### - <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week5%20-%20Feb%2012th/digitalHourglassImg2.png">Digital Hourglass Image 2</a>
 
-##### - <a href="https://vimeo.com/259503471">Vimeo project Video</a>
+##### - <a href="https://vimeo.com/259503471">Vimeo project video</a>
 
 ##### - <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week5%20-%20Feb%2012th/Digital%20Hourglass%20Code"> Digital Hourglass Code</a>
 
