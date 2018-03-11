@@ -4,6 +4,7 @@
 
 ##### - <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week4%20-%20Feb%205th/Love-O-Meter%20img1.JPG">Love-O-Meter Img1</a>
 #####  - <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week4%20-%20Feb%205th/Love-O-Meter%20img2.JPG">Love-O-Meter Img2</a>
+#####  - <a href="https://vimeo.com/259508944">Vimeo project video</a>
 #####  - <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week4%20-%20Feb%205th/Love-O-Meter%20Circuit.png">Love-O-Meter Circuit</a>
 ##### - <a href="https://github.com/AlVicente/physicalcomputing/blob/master/Homework/Week4%20-%20Feb%205th/Love-O-Meter%20Code">Love-O-Meter Code</a>
 
